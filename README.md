@@ -1,1 +1,1 @@
-## Simple users reviews cards with React.js
+## Simple user review cards with React.js
